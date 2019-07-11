@@ -1,2 +1,2 @@
 # abc
-这个人很懒，什么也没留下
+This person is lazy and left nothing right there.
